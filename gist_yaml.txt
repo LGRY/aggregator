@@ -1,4 +1,5 @@
 https://gist.githubusercontent.com/LGRY/19e59d56da966687f55b490942d5e338/raw/3b5d8e10542e89e2b8aec58aa9a5d7b10801013f/clash.yaml
+https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
 https://tcity8.top/api/v1/client/subscribe?token=fc14415d9b4206824296a69d1434db52
 http://1run.vip/api/v1/client/subscribe?token=18f700788076622ed4effefafd5041bb
 https://speedup.club/api/v1/client/subscribe?token=a835cb893e84399ee0835684d9920953
